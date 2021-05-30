@@ -13,4 +13,4 @@ I will be committing all my freeCodeCamp projects here.
 | 6 | | |
 
 # Acknowledgements
-  All acknowledgment goes to the freeCodeCamp team!
+  All acknowledgments go to the freeCodeCamp team!
